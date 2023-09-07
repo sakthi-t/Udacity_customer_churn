@@ -1,0 +1,6 @@
+root - INFO - Testing import_data: SUCCESS
+root - INFO - Testing import_data: SUCCESS
+root - INFO - SUCCESS: EDA Images are generated and exists in images directory
+root - INFO - SUCCESS: Tested encoder_helper
+root - INFO - SUCCESS: Tested perform_feature_engineering with sample data
+root - INFO - SUCCESS: classification images, feature importance image, and the model file exists.
